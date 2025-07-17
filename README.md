@@ -1,4 +1,5 @@
 # WebHDFS Клиент
+<img width="680" height="618" alt="hdfs_api" src="https://github.com/user-attachments/assets/36d82bf6-f8ee-4942-a191-f3ce25a46f5e" />
 
 Клиент WebHDFS для Python, который использует пользовательский инструмент API.
 
